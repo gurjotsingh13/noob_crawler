@@ -1,2 +1,2 @@
 # noob_crawler
-Java base web crawler using crawler4j with elastic search
+Java spring boot web crawler using crawler4j with elastic search for full text searching.
